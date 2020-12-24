@@ -1,0 +1,4 @@
+include ':PhoneOrientation-debug'
+include ':PhoneOrientation-debug'
+include ':app'
+rootProject.name = "OrientationSensor"
